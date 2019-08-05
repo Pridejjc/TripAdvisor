@@ -1,0 +1,22 @@
+body {
+    background-color: #DADADA;
+}
+#mainframe {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+.left.aligned.column {
+	max-width: 600px;
+}
+#lock {
+	position: absolute;
+	top: 2rem;
+	right: 0rem;
+}
+#message {
+	height: 100%;
+}
+.ui.vertical.menu {
+	width: auto;
+}
